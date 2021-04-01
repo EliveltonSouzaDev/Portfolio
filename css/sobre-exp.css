@@ -1,0 +1,71 @@
+
+
+.experiencia, .container-projetos{
+    background-color:#282A2D;
+    color: #fff;
+    
+  }
+  
+  ul.separator {
+    padding:10px;
+      width: 100%;
+    border-top: 1px solid #CCC;
+    opacity: 0.9;
+  }
+  
+  .separator p{
+    font-weight:bold;
+  }
+  
+  
+  
+  .resumo, .skill, .contato{
+    background-color:#ebebeb;
+  
+  }
+  
+  .experience_container{
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+  margin:2em auto;
+  width: 80%;}
+  
+  .container-resumo{
+  display: flex;
+  margin:2em auto;
+  width: 90%;
+  }
+  
+  .container-sobre, .container-detalhe{
+  margin:0 1.5em;
+  text-align: justify;
+  }
+  
+  .container-detalhe{
+    padding: 0;
+    width: 100%;
+  }
+  
+  .container {
+    margin:0 auto;
+    width: 100%;
+  }
+  
+  .container-sobre h2 , .container-detalhe h2 {
+    color:#393B44
+
+  }
+
+  @media (max-width: 768px){
+
+    .container-resumo {
+
+      flex-direction: column
+    }
+
+    .experience_container{
+      padding: 0;
+    }
+
+  }
