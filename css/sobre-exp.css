@@ -28,7 +28,7 @@
   display: flex;
   flex-direction: column;
   padding: 2em;
-  margin:2em auto;
+  margin:0 auto;
   width: 80%;}
   
   .container-resumo{
@@ -40,6 +40,11 @@
   .container-sobre, .container-detalhe{
   margin:0 1.5em;
   text-align: justify;
+  }
+
+  .container-sobre a{
+    text-decoration: none;
+    color:#393B44
   }
   
   .container-detalhe{
