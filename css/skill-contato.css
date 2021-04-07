@@ -54,6 +54,12 @@
 }
 
 
+h4{
+  color:#393B44
+
+}
+
+
 /*Form*/
 
 form{
@@ -142,5 +148,15 @@ margin: 1em;}
   .icon-contato p {
     max-width:95%;
     text-align: center;
+  }
+
+  .contact-phrase{
+    padding: 8px;
+    color:#393B44
+  }
+
+  h4{
+    color:#393B44
+
   }
 }
