@@ -3,7 +3,7 @@
 Projeto criado para divulgar meus projetos.
 
 
-![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/img/pg.png)
+![](https://github.com/EliveltonSouzaDev/Portfolio/blob/main/pictures/thumb%20portfolio.png)
 
 
 
